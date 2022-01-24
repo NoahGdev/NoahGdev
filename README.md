@@ -14,6 +14,8 @@ I am currently in univeristy studying Mathematics and Computer Science. I use Py
 
 ## 📈 Stats
 
+![github graph](https://activity-graph.herokuapp.com/graph?username=NoahGdev&theme=react-dark)
+
 <p align="center">
 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NoahGdev&show_icons=true&theme=tokyonight" />
