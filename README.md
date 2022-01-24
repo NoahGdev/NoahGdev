@@ -4,11 +4,12 @@ I am currently in univeristy studying Mathematics and Computer Science. I use Py
 
 ## ⚡ Technologies
 
-### Language :
+### Languages :
 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
+### Tools :
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ## 📈 Stats
