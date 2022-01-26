@@ -1,6 +1,7 @@
 ## Hi, I am Noah! welcome!
 
-I am currently in univeristy studying Mathematics and Computer Science. I use Python and Java and I like to break and make cool software.
+I am currently in univeristy studying Mathematics and Computer Science.
+I know Python and am learning Java.
 
 ## ⚡ Technologies
 
