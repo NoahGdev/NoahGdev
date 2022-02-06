@@ -1,4 +1,4 @@
-## Hi, I am Noah! welcome!
+## Hi, I am Noah
 
 I am currently in univeristy studying Mathematics and Computer Science.
 I know Python and am learning Java.
