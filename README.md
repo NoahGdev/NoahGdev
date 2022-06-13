@@ -11,9 +11,6 @@ I know Python and am learning Java.
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-## 📈 Stats
-
-![github graph](https://activity-graph.herokuapp.com/graph?username=NoahGdev&theme=react-dark)
 
 <p align="center">
 
