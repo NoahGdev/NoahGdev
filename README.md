@@ -14,7 +14,7 @@ I know Python and am learning Java.
 
 <p align="center">
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NoahGdev&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NoahGdev&show_icons=true&&count_private=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NoahGdev&theme=tokyonight" />
 </p>
 
