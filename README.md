@@ -9,6 +9,7 @@ I Use Python, JS, Electron and much more to build modern innovative solutions.
 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Electron](https://img.shields.io/badge/-Electron-black?style=flat-square&logo=Electron)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 <a href="https://github.com/NoahGdev">
