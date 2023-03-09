@@ -11,11 +11,12 @@ I Use Python, JS, Electron and much more to build modern innovative solutions.
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
+<a href="https://github.com/NoahGdev">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoahGdev&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
-<p align="center">
-
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=NoahGdev&show_icons=true&count_private=true&theme=tokyonight" />
-<!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NoahGdev&theme=tokyonight" /> -->
-</p>
+<a href="https://github.com/braydoncoyer">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=NoahGdev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Braydon's GitHub Stats" />
+</a>
 
 <br>
