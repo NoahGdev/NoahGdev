@@ -12,6 +12,8 @@ I Use Python, JS, Electron and much more to build modern innovative solutions.
 ![Electron](https://img.shields.io/badge/-Electron-black?style=flat-square&logo=Electron)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=Next.js)
+![TS](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript)
+![TS](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 <a href="https://github.com/NoahGdev">
