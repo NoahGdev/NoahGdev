@@ -1,6 +1,10 @@
 ## Hi, I am Noah
 
-I am currently in univeristy studying Mathematics and Computer Science.
+- Self taugh software engineer working with modern technologies such as Next.js, Tailwind CSS, Prisma + much more.
+- Studying Computer Science and Mathematics at Queen Mary University of London
+- Successfully founded and ran a SaaS company at age 17
+- Earned a software engineering internship at @americanexpress starting June 2024
+- Working on cool AI powered SaaS projects and tools.
 
 ## ⚡ Technologies
 
@@ -12,7 +16,7 @@ I am currently in univeristy studying Mathematics and Computer Science.
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=Next.js)
 ![TS](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript)
-![TS](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript)
+![JS](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 <a href="https://github.com/NoahGdev">
