@@ -1,6 +1,6 @@
 ## Hey! I am Noah 👋
 
-- Currently building crayo.ai + new projects!
+- Currently building clippie.ai + new projects!
 - Self taugh software engineer working with modern technologies such as Next.js, Tailwind CSS, Prisma + much more.
 - Studying Computer Science and Mathematics at Queen Mary University of London
 - Successfully founded and developed a SaaS company at age 17
