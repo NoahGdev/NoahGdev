@@ -1,7 +1,5 @@
 ## Hey! I am Noah 👋
 
-### Burn the bridges
-
 - Currently building clippie.ai
 - Prev. Software Engineering intern @AMEX
 - Prev. crayo.ai
